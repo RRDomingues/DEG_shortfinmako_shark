@@ -82,3 +82,5 @@ To reproduce this run: python ./run_BUSCO.py -i /home/labpc6c/Documents/Rodrigo/
 #Quantifiy reads
 
 > labpc6c@labpc6c:~/Documents/Rodrigo/mako_trimdata/trim_eye$ salmon quant -i /home/labpc6c/Documents/Rodrigo/salmon-latest_linux_x86_64/quant_reads_mako/denovo_mako_index -l A -1 T9_1_trim.fq  -2 T9_2_trim.fq --validateMappings -o /home/labpc6c/Documents/Rodrigo/salmon-latest_linux_x86_64/quant_reads_mako/out_eye_T9
+
+# go to DEGs analysis 
