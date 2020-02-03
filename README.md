@@ -4,4 +4,5 @@ Differentially Gene Expressed analyses for Domingues et al. 2020 "Differentially
 Pipeline:
 
 1 - RNA-seq analysis
+
 2 - DEGs analysis
